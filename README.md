@@ -3,9 +3,6 @@ Component "Wheel of Fortune" (also known as "Gacha") for Unity3D will make your 
 
 You can clone this repo or install it directly from Unity Asset Store (http://u3d.as/wqa)
 
-### Gameplay video
-https://www.youtube.com/watch?v=Y9NvJwxLW5A
-
 ### Features:
 * Easy reskin - just change the images by your own
 * Mobile ready
