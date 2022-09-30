@@ -35,3 +35,6 @@ The sample scene contains all that you need for implement the Wheel of Fortune i
 
 # Screenshot
 ![SpinningWheel](https://user-images.githubusercontent.com/100425157/193072129-39cf5e51-7e3d-4796-b46b-4a13b124e92f.png)
+
+## Link to APK File
+https://drive.google.com/file/d/1IVyp1J0SBdEJlKZCv-b20ucklSSd6y6x/view?usp=drivesdk
